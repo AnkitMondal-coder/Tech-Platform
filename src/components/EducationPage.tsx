@@ -56,7 +56,8 @@ const EducationPage: React.FC<EducationPageProps> = ({ onBack }) => {
       level: 'Beginner',
       students: 892,
       rating: 4.7,
-      image: 'https://images.pexels.com/photos/1435560/pexels-photo-1435560.jpeg?auto=compress&cs=tinysrgb&w=500',
+      //image: 'https://images.pexels.com/photos/1435560/pexels-photo-1435560.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image : '/mobile.jpg',
       modules: [
         'Phone Components',
         'Common Issues',

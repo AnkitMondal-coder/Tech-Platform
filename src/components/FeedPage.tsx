@@ -24,7 +24,8 @@ const FeedPage: React.FC<FeedPageProps> = ({ onBack }) => {
       mealCost: 2.5,
       ngo: 'Palestine Emergency Relief',
       agent: 'Dr. Khalid Mansour',
-      image: 'https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=500',
+      //image: 'https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image : '/donate4.jpg',
       region: 'palestine',
       verified: true,
       urgent: true
@@ -42,7 +43,8 @@ const FeedPage: React.FC<FeedPageProps> = ({ onBack }) => {
       mealCost: 1.8,
       ngo: 'African Children\'s Foundation',
       agent: 'Grace Adebayo',
-      image: 'https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=500',
+      //image: 'https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: '/donate5.webp',
       region: 'africa',
       verified: true,
       urgent: false
@@ -60,7 +62,8 @@ const FeedPage: React.FC<FeedPageProps> = ({ onBack }) => {
       mealCost: 2.2,
       ngo: 'Horn of Africa Relief',
       agent: 'Ahmed Hassan',
-      image: 'https://images.pexels.com/photos/6994314/pexels-photo-6994314.jpeg?auto=compress&cs=tinysrgb&w=500',
+      //image: 'https://images.pexels.com/photos/6994314/pexels-photo-6994314.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: '/donate6.png',
       region: 'africa',
       verified: true,
       urgent: true
@@ -78,7 +81,8 @@ const FeedPage: React.FC<FeedPageProps> = ({ onBack }) => {
       mealCost: 3.0,
       ngo: 'Syrian Humanitarian Aid',
       agent: 'Fatima Al-Zahra',
-      image: 'https://images.pexels.com/photos/6646943/pexels-photo-6646943.jpeg?auto=compress&cs=tinysrgb&w=500',
+      //image: 'https://images.pexels.com/photos/6646943/pexels-photo-6646943.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: '/donate7.jpg',
       region: 'middle-east',
       verified: true,
       urgent: false

@@ -33,7 +33,8 @@ const DonatePage: React.FC<DonatePageProps> = ({ onBack, currentUser }) => {
       raised: 2800,
       goal: 5000,
       coordinates: { lat: 31.5017, lng: 34.4668 },
-      image: 'https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=400'
+      //image: 'https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=400'
+      image: '/donate1.webp'
     },
     {
       id: 2,
@@ -49,7 +50,8 @@ const DonatePage: React.FC<DonatePageProps> = ({ onBack, currentUser }) => {
       raised: 1200,
       goal: 3000,
       coordinates: { lat: 6.5244, lng: 3.3792 },
-      image: 'https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=400'
+      //image: 'https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=400'
+      image: '/donate2.jpg'
     },
     {
       id: 3,
@@ -65,7 +67,8 @@ const DonatePage: React.FC<DonatePageProps> = ({ onBack, currentUser }) => {
       raised: 4500,
       goal: 8000,
       coordinates: { lat: 33.5138, lng: 36.2765 },
-      image: 'https://images.pexels.com/photos/6994314/pexels-photo-6994314.jpeg?auto=compress&cs=tinysrgb&w=400'
+      //image: 'https://images.pexels.com/photos/6994314/pexels-photo-6994314.jpeg?auto=compress&cs=tinysrgb&w=400'
+      image : '/donate3.jpeg'
     }
   ];
 

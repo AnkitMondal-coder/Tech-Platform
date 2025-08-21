@@ -122,7 +122,8 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSearch, onLogout, cur
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8 max-w-4xl mx-auto">
             <div className="relative rounded-2xl overflow-hidden shadow-lg">
               <img 
-                src="https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                //src="https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=300"
+                src="/donate1.webp" 
                 alt="Children in need of education"
                 className="w-full h-32 object-cover"
               />
@@ -131,7 +132,8 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSearch, onLogout, cur
             </div>
             <div className="relative rounded-2xl overflow-hidden shadow-lg">
               <img 
-                src="https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                //src="https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                src="/donate2.jpg"
                 alt="Families needing food assistance"
                 className="w-full h-32 object-cover"
               />
@@ -140,7 +142,8 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSearch, onLogout, cur
             </div>
             <div className="relative rounded-2xl overflow-hidden shadow-lg">
               <img 
-                src="https://images.pexels.com/photos/6994314/pexels-photo-6994314.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                //src="https://images.pexels.com/photos/6994314/pexels-photo-6994314.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                src="/donate4.jpg"
                 alt="Communities in poverty"
                 className="w-full h-32 object-cover"
               />
@@ -149,7 +152,8 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSearch, onLogout, cur
             </div>
             <div className="relative rounded-2xl overflow-hidden shadow-lg">
               <img 
-                src="https://images.pexels.com/photos/6646943/pexels-photo-6646943.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                //src="https://images.pexels.com/photos/6646943/pexels-photo-6646943.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                src="/donate8.webp"
                 alt="Children needing support"
                 className="w-full h-32 object-cover"
               />
